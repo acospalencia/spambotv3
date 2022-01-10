@@ -1,0 +1,14 @@
+
+1--importante haber descargado el .gif llamado spam y nunca borrarlo
+
+2--Cuando habras el programa por primera vez le tienes que dar al F2 para que cree el archivo "texto.txt"
+se va a cerrar pero lo habre de igual manera y ya lo podras usar.
+
+3--Si sufre algun bug se arregla con cerrar y abrir el programa.
+
+4--Dentro de la misma carpeta "necesarios" esta una tipografia que usa el programa, es opcional el si 
+la quieres instalar o no, pero lo unico que se vera con una tipografia rara.
+
+5--viene el archivo .py por si quieres ver el codigo
+
+6--    DISFRUTA :)
